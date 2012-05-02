@@ -1,0 +1,31 @@
+![sticker](http://lmgtfy.com/images/sticker.png)
+
+# lmgtfy
+An [Alfred](http://alfredapp.com) extension that creates a link for [lmgtfy.com](http://lmgtfy.com).
+
+### Dependencies
+* [Alfred](http://alfredapp.com)
+* [Alfred Powerpack](http://www.alfredapp.com/powerpack)
+
+### Usage
+
+Usage follows the following format:
+
+
+![Usage](http://approductive.files.wordpress.com/2012/05/lmgtfy_alfred.png)
+
+* Select a keyword (it is **lmgtfy** by default)
+* Specify the search you want to create
+
+The link is copied to your clipboard for easy pasting.
+
+![lmgtfy](http://approductive.files.wordpress.com/2012/05/lmgtfy_output.png)
+
+
+### Installation
+
+[![Install](http://media.alfredapp.com/scripts/downloadextension.png)](https://github.com/brockangelo/lmgtfy/raw/master/lmgtfy.alfredextension)
+
+### Special Thanks
+
+Special thanks to the guys at lmgtfy.com for allowing the image of their sticker and giving the all clear to share this with the world. Seriously, [buy a sticker](http://lmgtfy.com/stickers.html) already.
